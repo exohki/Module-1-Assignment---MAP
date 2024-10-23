@@ -1,0 +1,14 @@
+/Users/emileemontijo/CSharpAnimalProject/bin/Debug/net8.0/CSharpAnimalProject
+/Users/emileemontijo/CSharpAnimalProject/bin/Debug/net8.0/CSharpAnimalProject.deps.json
+/Users/emileemontijo/CSharpAnimalProject/bin/Debug/net8.0/CSharpAnimalProject.runtimeconfig.json
+/Users/emileemontijo/CSharpAnimalProject/bin/Debug/net8.0/CSharpAnimalProject.dll
+/Users/emileemontijo/CSharpAnimalProject/bin/Debug/net8.0/CSharpAnimalProject.pdb
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.AssemblyInfoInputs.cache
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.AssemblyInfo.cs
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.csproj.CoreCompileInputs.cache
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.dll
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/refint/CSharpAnimalProject.dll
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.pdb
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/CSharpAnimalProject.genruntimeconfig.cache
+/Users/emileemontijo/CSharpAnimalProject/obj/Debug/net8.0/ref/CSharpAnimalProject.dll
